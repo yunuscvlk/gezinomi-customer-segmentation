@@ -1,0 +1,4 @@
+**/*.csv
+**/*.tr.ipynb
+__pycache__/
+.vscode/
